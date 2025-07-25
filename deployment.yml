@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: jenkinswebapp
-          image: vinodhconnects/jenkinswebapp
+          image: shashank1402/jenkinswebapp
           ports:
             - containerPort: 80
